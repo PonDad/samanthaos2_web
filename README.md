@@ -3,7 +3,7 @@
 音声コマンドは以下の通りです。
 
 ```
-var
+var commands = {
   'こんにちは': hello,
   '(ヘイ)(オーケー)(OK)サマンサ': greeting,
   'さようなら': googbye,
