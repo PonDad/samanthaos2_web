@@ -1,12 +1,16 @@
 {
   "name": "samanthaos2",
   "version": "1.0.0",
-  "description": "",
+  "description": "super sexy chat bot",
   "main": "app.js",
   "author": "pon_dad",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.4.1",
     "express": "^4.13.4"
-  }
+  },
+  "engines": {
+  "node": "4.2.4",
+  "npm":  "2.14.12"
+}
 }
