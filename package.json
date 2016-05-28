@@ -1,12 +1,9 @@
 {
-  "name": "annyang",
+  "name": "samanthaos2",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "main": "app.js",
+  "author": "pon_dad",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.4.1",
